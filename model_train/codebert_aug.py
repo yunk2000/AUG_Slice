@@ -1,5 +1,3 @@
-# 姓名: 邹征斌
-# 时间: 2024/8/16 11:11
 from transformers import RobertaForSequenceClassification, Trainer, TrainingArguments
 from transformers import RobertaTokenizer
 import torch
