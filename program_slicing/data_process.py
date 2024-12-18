@@ -1,6 +1,3 @@
-# 姓名: 邹征斌
-# 时间: 2024/8/12 14:05
-
 import re
 import pickle
 
