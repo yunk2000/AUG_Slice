@@ -1,5 +1,3 @@
-# 姓名: 邹征斌
-# 时间: 2024/10/22 17:07
 # -*- coding: utf-8 -*-
 import os
 import matplotlib.pyplot as plt
